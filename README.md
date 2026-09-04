@@ -20,7 +20,6 @@ The proposed system enhances AWS GuardDuty by using Artificial Intelligence to c
 ## Project Management Approach
 
 The project follows the Incremental Model, where the system is divided into separate increments that can be developed and tested step by step.
-
 The three main increments focus on AI-based alert classification, the monitoring dashboard and monthly summaries, and IP address verification.
 
 ## Project Management Tools & Techniques
