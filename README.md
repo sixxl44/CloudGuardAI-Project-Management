@@ -19,35 +19,32 @@ The proposed system enhances AWS GuardDuty by using Artificial Intelligence to c
 
 ## Project Management Approach
 
-The project follows the Incremental Model, allowing the proposed system to be planned and developed through separate increments.
+The project follows the Incremental Model, where the system is divided into separate increments that can be developed and tested step by step.
 
-The project management plan includes:
+The three main increments focus on AI-based alert classification, the monitoring dashboard and monthly summaries, and IP address verification.
 
+## Project Management Tools & Techniques
+
+- Work Breakdown Structure (WBS)
+- WBS Dictionary
+- RACI Matrix
+- Gantt Chart
+- Project Planning
+- Risk Management
+- Project Documentation
+
+## Project Components
+
+- Project Introduction
+- Problem Statement
 - Project Charter
-- Requirements Analysis
+- Project Requirements
 - Project Scope Statement
 - Work Breakdown Structure (WBS)
 - WBS Dictionary
 - RACI Matrix
 - Gantt Chart
 - Risk Register
-
-## Proposed Technologies
-
-- Python
-- AWS GuardDuty
-- React / Power BI
-- MySQL / MongoDB
-- Artificial Intelligence and Machine Learning
-
-## Project Features
-
-- AI-based security alert classification
-- Alert prioritization
-- Cloud security monitoring dashboard
-- Monthly alert summaries and statistical analysis
-- Known and unknown IP address verification
-- Security alert and IP record management
 
 ## My Contributions
 
@@ -59,20 +56,8 @@ The project management plan includes:
 ## Skills Demonstrated
 
 - Project Management
-- Work Breakdown Structure (WBS)
+- Work Breakdown Structure Development
 - Project Planning
 - Project Documentation
-- Requirements Analysis
-- Risk Management
+- Project Organization
 - Team Collaboration
-
-## Repository Contents
-
-- CloudGuard AI Project Report
-- Project Charter
-- Requirements and Scope Documentation
-- Work Breakdown Structure (WBS)
-- WBS Dictionary
-- RACI Matrix
-- Gantt Chart
-- Risk Register
