@@ -1,1 +1,1 @@
-# CloudGuard-AI-Project-Management-
+# CloudGuardAI-Project-Management-
